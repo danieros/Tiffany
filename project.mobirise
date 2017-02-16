@@ -57,7 +57,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1496.jpg",
             "bgColor": "#8e44ad",
             "bgColorRadio": false,
             "bgVideo": {
@@ -65,14 +65,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.9,
+            "overlayOpacity": "0.6",
             "overlayColor": "#8e44ad",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
-          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "title": "Tiffiny's",
+          "text": "Order today. freshly made and priced to suit. see our <a href=\"page1.html\">pricelist</a> but remember we can make anything.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         }
@@ -143,16 +143,16 @@
                 "active": true,
                 "tags": "Awesome",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/shop1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x2500.jpg",
                 "onsale": "SALE 50% OFF",
                 "onSale": false,
-                "itemTitle": "Flying Cowboy Hat",
+                "itemTitle": "Cookies",
                 "itemSubtitle": "could be your best friend",
                 "starsImg": "@PROJECT_PATH@/assets/images/4.png",
                 "stars": "@PROJECT_PATH@/assets/images/4.png",
-                "itemPrice": "$36.00",
-                "itemDescription": "Beware! It can fly away. We make no guarantees.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>367DDF5p</b>",
+                "itemPrice": "R36.00",
+                "itemDescription": "We love it made of ......<br><br> Product code: <b>367DDF5p</b>",
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>"
               },
               {
